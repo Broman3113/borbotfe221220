@@ -1,0 +1,11 @@
+.UsersWidget{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+    max-width: 350px;
+    width: 100%;
+}
+.ViewAllPanel{
+    padding: 10px;
+}
